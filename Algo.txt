@@ -1,0 +1,8 @@
+Decide which business to order from
+Decide which type of pizza to order
+Add / Remove toppings and sauce to meet personal taste
+Add any desired sides / drinks
+calculate tip for driver
+input payment information
+ensure delivery address is correct
+place order and win
